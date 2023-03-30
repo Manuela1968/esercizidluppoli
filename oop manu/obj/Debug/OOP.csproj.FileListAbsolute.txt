@@ -1,0 +1,8 @@
+C:\Users\corso\Desktop\Manuela\oop manu\bin\Debug\OOP.exe.config
+C:\Users\corso\Desktop\Manuela\oop manu\bin\Debug\OOP.exe
+C:\Users\corso\Desktop\Manuela\oop manu\bin\Debug\OOP.pdb
+C:\Users\corso\Desktop\Manuela\oop manu\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\corso\Desktop\Manuela\oop manu\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\corso\Desktop\Manuela\oop manu\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\corso\Desktop\Manuela\oop manu\obj\Debug\OOP.exe
+C:\Users\corso\Desktop\Manuela\oop manu\obj\Debug\OOP.pdb

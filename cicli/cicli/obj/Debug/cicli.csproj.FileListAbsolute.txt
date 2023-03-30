@@ -1,0 +1,8 @@
+C:\Users\corso\Desktop\Manuela\cicli\cicli\bin\Debug\cicli.exe.config
+C:\Users\corso\Desktop\Manuela\cicli\cicli\bin\Debug\cicli.exe
+C:\Users\corso\Desktop\Manuela\cicli\cicli\bin\Debug\cicli.pdb
+C:\Users\corso\Desktop\Manuela\cicli\cicli\obj\Debug\cicli.csproj.AssemblyReference.cache
+C:\Users\corso\Desktop\Manuela\cicli\cicli\obj\Debug\cicli.csproj.SuggestedBindingRedirects.cache
+C:\Users\corso\Desktop\Manuela\cicli\cicli\obj\Debug\cicli.csproj.CoreCompileInputs.cache
+C:\Users\corso\Desktop\Manuela\cicli\cicli\obj\Debug\cicli.exe
+C:\Users\corso\Desktop\Manuela\cicli\cicli\obj\Debug\cicli.pdb

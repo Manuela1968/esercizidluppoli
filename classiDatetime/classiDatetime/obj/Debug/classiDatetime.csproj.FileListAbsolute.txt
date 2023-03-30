@@ -1,0 +1,8 @@
+C:\Users\corso\Desktop\Manuela\classiDatetime\classiDatetime\bin\Debug\classiDatetime.exe.config
+C:\Users\corso\Desktop\Manuela\classiDatetime\classiDatetime\bin\Debug\classiDatetime.exe
+C:\Users\corso\Desktop\Manuela\classiDatetime\classiDatetime\bin\Debug\classiDatetime.pdb
+C:\Users\corso\Desktop\Manuela\classiDatetime\classiDatetime\obj\Debug\classiDatetime.csproj.AssemblyReference.cache
+C:\Users\corso\Desktop\Manuela\classiDatetime\classiDatetime\obj\Debug\classiDatetime.csproj.SuggestedBindingRedirects.cache
+C:\Users\corso\Desktop\Manuela\classiDatetime\classiDatetime\obj\Debug\classiDatetime.csproj.CoreCompileInputs.cache
+C:\Users\corso\Desktop\Manuela\classiDatetime\classiDatetime\obj\Debug\classiDatetime.exe
+C:\Users\corso\Desktop\Manuela\classiDatetime\classiDatetime\obj\Debug\classiDatetime.pdb

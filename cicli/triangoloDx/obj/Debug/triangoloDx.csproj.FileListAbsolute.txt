@@ -1,0 +1,8 @@
+C:\Users\corso\Desktop\Manuela\cicli\triangoloDx\bin\Debug\triangoloDx.exe.config
+C:\Users\corso\Desktop\Manuela\cicli\triangoloDx\bin\Debug\triangoloDx.exe
+C:\Users\corso\Desktop\Manuela\cicli\triangoloDx\bin\Debug\triangoloDx.pdb
+C:\Users\corso\Desktop\Manuela\cicli\triangoloDx\obj\Debug\triangoloDx.csproj.AssemblyReference.cache
+C:\Users\corso\Desktop\Manuela\cicli\triangoloDx\obj\Debug\triangoloDx.csproj.SuggestedBindingRedirects.cache
+C:\Users\corso\Desktop\Manuela\cicli\triangoloDx\obj\Debug\triangoloDx.csproj.CoreCompileInputs.cache
+C:\Users\corso\Desktop\Manuela\cicli\triangoloDx\obj\Debug\triangoloDx.exe
+C:\Users\corso\Desktop\Manuela\cicli\triangoloDx\obj\Debug\triangoloDx.pdb

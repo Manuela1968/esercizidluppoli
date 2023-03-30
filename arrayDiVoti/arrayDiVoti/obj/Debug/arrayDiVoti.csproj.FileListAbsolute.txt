@@ -1,0 +1,8 @@
+C:\Users\corso\Desktop\Manuela\arrayDiVoti\arrayDiVoti\bin\Debug\arrayDiVoti.exe.config
+C:\Users\corso\Desktop\Manuela\arrayDiVoti\arrayDiVoti\bin\Debug\arrayDiVoti.exe
+C:\Users\corso\Desktop\Manuela\arrayDiVoti\arrayDiVoti\bin\Debug\arrayDiVoti.pdb
+C:\Users\corso\Desktop\Manuela\arrayDiVoti\arrayDiVoti\obj\Debug\arrayDiVoti.csproj.AssemblyReference.cache
+C:\Users\corso\Desktop\Manuela\arrayDiVoti\arrayDiVoti\obj\Debug\arrayDiVoti.csproj.SuggestedBindingRedirects.cache
+C:\Users\corso\Desktop\Manuela\arrayDiVoti\arrayDiVoti\obj\Debug\arrayDiVoti.csproj.CoreCompileInputs.cache
+C:\Users\corso\Desktop\Manuela\arrayDiVoti\arrayDiVoti\obj\Debug\arrayDiVoti.exe
+C:\Users\corso\Desktop\Manuela\arrayDiVoti\arrayDiVoti\obj\Debug\arrayDiVoti.pdb

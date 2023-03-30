@@ -1,0 +1,8 @@
+C:\Users\corso\Desktop\Manuela\Parcheggio\Parcheggio\obj\Debug\Parcheggio.csproj.AssemblyReference.cache
+C:\Users\corso\Desktop\Manuela\Parcheggio\Parcheggio\obj\Debug\Parcheggio.csproj.SuggestedBindingRedirects.cache
+C:\Users\corso\Desktop\Manuela\Parcheggio\Parcheggio\obj\Debug\Parcheggio.csproj.CoreCompileInputs.cache
+C:\Users\corso\Desktop\Manuela\Parcheggio\Parcheggio\bin\Debug\Parcheggio.exe.config
+C:\Users\corso\Desktop\Manuela\Parcheggio\Parcheggio\bin\Debug\Parcheggio.exe
+C:\Users\corso\Desktop\Manuela\Parcheggio\Parcheggio\bin\Debug\Parcheggio.pdb
+C:\Users\corso\Desktop\Manuela\Parcheggio\Parcheggio\obj\Debug\Parcheggio.exe
+C:\Users\corso\Desktop\Manuela\Parcheggio\Parcheggio\obj\Debug\Parcheggio.pdb

@@ -1,0 +1,8 @@
+C:\Users\corso\Desktop\Manuela\clessidra\clessidra\bin\Debug\clessidra.exe.config
+C:\Users\corso\Desktop\Manuela\clessidra\clessidra\bin\Debug\clessidra.exe
+C:\Users\corso\Desktop\Manuela\clessidra\clessidra\bin\Debug\clessidra.pdb
+C:\Users\corso\Desktop\Manuela\clessidra\clessidra\obj\Debug\clessidra.csproj.AssemblyReference.cache
+C:\Users\corso\Desktop\Manuela\clessidra\clessidra\obj\Debug\clessidra.csproj.SuggestedBindingRedirects.cache
+C:\Users\corso\Desktop\Manuela\clessidra\clessidra\obj\Debug\clessidra.csproj.CoreCompileInputs.cache
+C:\Users\corso\Desktop\Manuela\clessidra\clessidra\obj\Debug\clessidra.exe
+C:\Users\corso\Desktop\Manuela\clessidra\clessidra\obj\Debug\clessidra.pdb

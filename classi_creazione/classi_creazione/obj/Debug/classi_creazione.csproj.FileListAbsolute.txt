@@ -1,0 +1,8 @@
+C:\Users\corso\Desktop\Manuela\classi_creazione\classi_creazione\obj\Debug\classi_creazione.csproj.AssemblyReference.cache
+C:\Users\corso\Desktop\Manuela\classi_creazione\classi_creazione\obj\Debug\classi_creazione.csproj.SuggestedBindingRedirects.cache
+C:\Users\corso\Desktop\Manuela\classi_creazione\classi_creazione\obj\Debug\classi_creazione.csproj.CoreCompileInputs.cache
+C:\Users\corso\Desktop\Manuela\classi_creazione\classi_creazione\bin\Debug\classi_creazione.exe.config
+C:\Users\corso\Desktop\Manuela\classi_creazione\classi_creazione\bin\Debug\classi_creazione.exe
+C:\Users\corso\Desktop\Manuela\classi_creazione\classi_creazione\bin\Debug\classi_creazione.pdb
+C:\Users\corso\Desktop\Manuela\classi_creazione\classi_creazione\obj\Debug\classi_creazione.exe
+C:\Users\corso\Desktop\Manuela\classi_creazione\classi_creazione\obj\Debug\classi_creazione.pdb

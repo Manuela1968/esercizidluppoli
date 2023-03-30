@@ -1,0 +1,8 @@
+C:\Users\corso\Desktop\Manuela\liste\liste\bin\Debug\liste.exe.config
+C:\Users\corso\Desktop\Manuela\liste\liste\bin\Debug\liste.exe
+C:\Users\corso\Desktop\Manuela\liste\liste\bin\Debug\liste.pdb
+C:\Users\corso\Desktop\Manuela\liste\liste\obj\Debug\liste.csproj.AssemblyReference.cache
+C:\Users\corso\Desktop\Manuela\liste\liste\obj\Debug\liste.csproj.SuggestedBindingRedirects.cache
+C:\Users\corso\Desktop\Manuela\liste\liste\obj\Debug\liste.csproj.CoreCompileInputs.cache
+C:\Users\corso\Desktop\Manuela\liste\liste\obj\Debug\liste.exe
+C:\Users\corso\Desktop\Manuela\liste\liste\obj\Debug\liste.pdb

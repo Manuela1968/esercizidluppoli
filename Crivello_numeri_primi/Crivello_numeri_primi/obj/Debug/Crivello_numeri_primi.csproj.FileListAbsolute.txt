@@ -1,0 +1,8 @@
+C:\Users\corso\Desktop\Manuela\Crivello_numeri_primi\Crivello_numeri_primi\obj\Debug\Crivello_numeri_primi.csproj.AssemblyReference.cache
+C:\Users\corso\Desktop\Manuela\Crivello_numeri_primi\Crivello_numeri_primi\obj\Debug\Crivello_numeri_primi.csproj.SuggestedBindingRedirects.cache
+C:\Users\corso\Desktop\Manuela\Crivello_numeri_primi\Crivello_numeri_primi\obj\Debug\Crivello_numeri_primi.csproj.CoreCompileInputs.cache
+C:\Users\corso\Desktop\Manuela\Crivello_numeri_primi\Crivello_numeri_primi\bin\Debug\Crivello_numeri_primi.exe.config
+C:\Users\corso\Desktop\Manuela\Crivello_numeri_primi\Crivello_numeri_primi\bin\Debug\Crivello_numeri_primi.exe
+C:\Users\corso\Desktop\Manuela\Crivello_numeri_primi\Crivello_numeri_primi\bin\Debug\Crivello_numeri_primi.pdb
+C:\Users\corso\Desktop\Manuela\Crivello_numeri_primi\Crivello_numeri_primi\obj\Debug\Crivello_numeri_primi.exe
+C:\Users\corso\Desktop\Manuela\Crivello_numeri_primi\Crivello_numeri_primi\obj\Debug\Crivello_numeri_primi.pdb
