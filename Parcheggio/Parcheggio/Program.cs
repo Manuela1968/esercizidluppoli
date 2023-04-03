@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -30,7 +31,8 @@ namespace Parcheggio
                     veicoli.Add(new Veicolo(targa, start));
                     Console.WriteLine(targa, start);
                     Console.ReadLine();
-
+                  
+                    //modifica di prova
                   
                 }
             }
