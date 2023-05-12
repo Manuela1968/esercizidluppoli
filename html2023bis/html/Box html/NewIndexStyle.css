@@ -1,0 +1,23 @@
+html, body, p 
+{
+margin: 0;
+/* contiene tutti i margini top, bottom, left, right 
+oppure margin :0 0 0 0
+oppure margin 10 20 */
+}
+
+body {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: azure;
+    color: rgb(53, 20, 84);
+}
+
+.demo {
+    border: 5px blue solid;
+    padding: 15px;
+    margin: 15px auto; /* auto per centrare il riquadro nella pagina del browser*/
+    background-color: aquamarine;
+    box-shadow: 3px;
+    
+}

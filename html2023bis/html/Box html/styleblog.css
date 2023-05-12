@@ -1,0 +1,131 @@
+/*
+html, body{
+    margin: 0;
+    background-color: lightgray;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+.fullwidthcontainer{
+    margin: 0;
+}
+
+.header{
+background-color: black;
+color: white;
+font-size: 1.5rem;
+}
+
+.container{
+    width: 80%;
+    max-width: 500px;
+    margin : 0 auto;
+    padding: 1rem;
+}
+
+.main {
+    background-color: azure;
+    padding: 1rem;
+}
+
+.footer{
+    background-color: aqua;
+    font-size: 0.8rem;
+    color: blueviolet;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.yellow {
+    background-color: yellow;
+}
+.blue {
+    background-color: blue;
+}
+.red {
+    background-color: red;
+}
+.w33{
+     width: 33,33%;
+     float: left;
+}
+
+.box {
+    height: 100spx;
+    margin: 0 1%;
+    border: 1px solid;
+}
+
+.clear {
+    clear: both;} */
+
+
+html, body
+{
+    margin: 0;
+    background-color: lightgray;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+.fullwidthcontainer
+{
+    margin: 0;
+}
+
+.header
+{
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.container
+{
+    width: 80%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 1rem 0;
+}
+
+.main
+{
+    background-color: white;
+    padding: 1rem;
+}
+
+.footer
+{
+    background-color: darkgrey;
+    color: lightgray;
+    font-size: 0.5rem;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.red { background-color: red;}
+.green 
+{ 
+    background-color: green;
+}
+.blue { background-color: blue;}
+.box {
+    /*width: 31%;*/
+    height: 100px;
+    /*float: right;*/
+    margin: 10px;
+    border: 1px black solid;
+}
+
+.w33
+{
+    width: 33.333333%;
+    float: left;
+}
+
+.clear
+{
+    clear: both;
+}

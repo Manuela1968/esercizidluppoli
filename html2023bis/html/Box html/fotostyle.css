@@ -1,0 +1,44 @@
+.boxsopra{
+display: flex;
+flex-direction: row;
+}
+img{
+width: 100%;
+}
+
+.upsx{
+display: flex;
+width: 100%;
+padding: 15px;
+}
+.updx{
+display: flex;
+width: 50%;
+flex-direction: row;
+justify-content: flex-start;
+flex-wrap: wrap;
+padding: 15px;
+}
+
+.boxsotto{
+display: flex;
+flex-direction: row;
+}
+.dwsx{
+    padding: 15px;
+width: 25%;
+display: flex;    
+justify-content: flex-start;
+flex-direction: column;
+flex-wrap: wrap;
+}
+.dwdx{
+display: flex;
+width: 50%;
+padding: 15px;
+}
+.box{
+width: 50%;   
+
+}
+    

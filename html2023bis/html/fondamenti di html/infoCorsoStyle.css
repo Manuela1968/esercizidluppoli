@@ -1,0 +1,62 @@
+body {
+    background-color: lightpink;
+    color :rgb(87, 20, 95);
+}
+
+h1 , h2 
+{
+    color : blueviolet;
+}
+
+.testoEvidenziato 
+{
+    background-color: rgb(240, 144, 187);
+}
+
+.testoGrassetto 
+{
+    font-weight: bold;
+}
+
+#mascotte
+{
+    font-style: italic;
+    font-weight: bold;
+}
+
+a:visited
+{
+    color:green;
+}
+
+p::first-letter{
+    font-size: 30px;
+    Color: blueviolet;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+/*stile per la tabella*/
+
+table{
+    text-align: left;
+}
+
+tfoot td:first-of-type{
+    text-align : right;
+}
+
+tr td:last-of-type{
+    text-align: center;
+}
+
+thead, tfoot {
+    background-color: rgb(244, 72, 230);
+    font-weight: bold;
+}
+
+tbody tr:nth-child(even){
+    background-color: rgb(249, 159, 234);
+}
+
+
